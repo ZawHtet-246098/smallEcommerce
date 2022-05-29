@@ -1,4 +1,6 @@
-login is not stricted and you can enter by add whatever email and password
+#login is not stricted and you can enter by add whatever email and password
+
+preview link = https://small-ecommerce-2022.netlify.app/
 
 
 
