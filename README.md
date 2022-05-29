@@ -1,3 +1,7 @@
+login is not stricted and you can enter by add whatever email and password
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
